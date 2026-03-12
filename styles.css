@@ -14,7 +14,7 @@ p {
 
 .card {
     background-color: yellow;
-    color: white;
+    color: yellow;
     width: 200px;
     height: 200px;
     border-radius: 20px;
@@ -36,3 +36,4 @@ p {
     justify-content: space-around;
     margin: 20px;
 }
+
